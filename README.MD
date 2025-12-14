@@ -1,5 +1,3 @@
-⚠️ **API UNDER MAINTENANCE**  
-
 # R6Data API Documentation
 
 Comprehensive API for accessing Rainbow Six Siege game data, player statistics, and service information. Get operators, weapons, maps, ranks, and player stats.
@@ -464,4 +462,5 @@ No parameters required. Returns current server status for all platforms.
 ---
 
 **Documentation by R6Data Team**
+
 
